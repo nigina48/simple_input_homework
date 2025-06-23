@@ -5,6 +5,6 @@
 a = int(input(' a sonning kiriting'))
 
 # Calculate square
-print("sum", a ** 2)
+print("sum", a * 2)
 
 # Print result
