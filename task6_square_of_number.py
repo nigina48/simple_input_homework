@@ -3,8 +3,8 @@
 
 # Get input from user
 a = int(input(' a sonning kiriting'))
-b = int(input(' b sonni kiriting'))
+
 # Calculate square
 print("sum", a ** 2)
-print("sum", b ** 2)
+
 # Print result
