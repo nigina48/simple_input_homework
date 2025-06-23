@@ -5,5 +5,5 @@
 a = int(input(' a sonning kiriting: '))
 b = int(input(' b sonni kiriting'))
 # Calculate remainder
-print("sum", a / b)
+print("sum", a % b)
 # Print result
